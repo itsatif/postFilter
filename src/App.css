@@ -82,3 +82,8 @@ input:hover{
   border-bottom: 2px solid #fff;
 }
 
+a{
+  text-decoration: none;
+  color:#fff;
+}
+

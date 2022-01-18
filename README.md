@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+Pep-Filter 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A post filtering app built using reactJs 
 
 ## Available Scripts
 
